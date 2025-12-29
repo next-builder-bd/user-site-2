@@ -1,6 +1,7 @@
 {
   "enabledPlugins": [
     "blog",
-    "shop-plugin"
+    "shop-plugin",
+    "shopPlugin"
   ]
 }
